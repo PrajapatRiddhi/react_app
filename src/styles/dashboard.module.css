@@ -1,0 +1,23 @@
+.tableCountCheckbox {
+    margin-left: 1rem;
+}
+
+.productLink {
+    fill: var(--p-interactive);
+    top: 2px;
+    margin-left: 4px;
+    position: relative;
+}
+
+.table {
+    margin-top: 1rem;
+}
+
+.productHeading{
+    display: flex;
+    align-items: center;
+}
+
+.productHeading h1{
+    flex: 1;
+}
